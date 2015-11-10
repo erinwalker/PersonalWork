@@ -1,0 +1,18 @@
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\EWalk13\Documents\Unity Projects\FPS\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\EWalk13\Documents\Unity Projects\FPS\obj\Debug\UnityVS.FPS.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\EWalk13\Documents\Unity Projects\FPS\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\EWalk13\Documents\Unity Projects\FPS\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\EWalk13\Desktop\FPS\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\EWalk13\Desktop\FPS\obj\Debug\UnityVS.FPS.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\EWalk13\Desktop\FPS\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\EWalk13\Desktop\FPS\obj\Debug\Assembly-CSharp-firstpass.pdb

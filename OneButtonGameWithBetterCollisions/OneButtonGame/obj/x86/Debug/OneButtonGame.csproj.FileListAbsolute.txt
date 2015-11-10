@@ -1,0 +1,124 @@
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\Content\explosion.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\Content\Bomb.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\Content\dog.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\obj\x86\Debug\OneButtonGame.csprojResolveAssemblyReference.cache
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\obj\x86\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGame\OneButtonGame\obj\x86\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\Content\explosion.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\Content\Bomb.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\Content\dog.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.csprojResolveAssemblyReference.cache
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\explosion.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\Bomb.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\dog.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.pdb
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.csprojResolveAssemblyReference.cache
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe.manifest
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.application
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.exe.manifest
+C:\Users\EWalk13\Documents\Visual Studio 2013\Projects\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.application
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.exe
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.pdb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\explosion.xnb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\Bomb.xnb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\dog.xnb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\Content\Font.xnb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe.manifest
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.application
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.exe
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\OneButtonGame.pdb
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.csprojResolveAssemblyReference.cache
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.exe.manifest
+G:\Windows\Columbia\Spring 2015\Game Programming\OneButtonGameWithBetterCollisions\OneButtonGame\obj\x86\Debug\OneButtonGame.application

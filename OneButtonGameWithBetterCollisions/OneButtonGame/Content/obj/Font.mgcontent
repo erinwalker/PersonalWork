@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/EWalk13/Documents/Visual Studio 2013/Projects/Game Programming/OneButtonGame/OneButtonGame/Content/Font.spritefont</SourceFile>
+  <SourceTime>2015-02-20T20:51:08.598749-06:00</SourceTime>
+  <DestFile>C:/Users/EWalk13/Documents/Visual Studio 2013/Projects/Game Programming/OneButtonGame/OneButtonGame/Content/bin/Font.xnb</DestFile>
+  <DestTime>2015-02-23T13:58:41.696416-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-01-27T18:23:30-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-01-27T18:23:30-06:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
