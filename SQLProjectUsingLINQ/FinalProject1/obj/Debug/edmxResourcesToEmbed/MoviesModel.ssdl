@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MoviesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Actors">
+    <Key>
+      <PropertyRef Name="ActorID" />
+    </Key>
+    <Property Name="ActorID" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="20" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Filmography">
+    <Key>
+      <PropertyRef Name="FilmographyID" />
+    </Key>
+    <Property Name="FilmographyID" Type="int" Nullable="false" />
+    <Property Name="MovieID" Type="int" Nullable="false" />
+    <Property Name="ActorID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="GenreID" />
+    </Key>
+    <Property Name="GenreID" Type="int" Nullable="false" />
+    <Property Name="TypeOfGenre" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Movies">
+    <Key>
+      <PropertyRef Name="MovieID" />
+    </Key>
+    <Property Name="MovieID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LengthInMinutes" Type="int" />
+    <Property Name="Rating" Type="nchar" MaxLength="10" />
+    <Property Name="ReleaseDate" Type="date" />
+    <Property Name="Director" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="GenreID" Type="int" />
+  </EntityType>
+  <EntityType Name="MovieSchedule">
+    <Key>
+      <PropertyRef Name="ScheduleID" />
+    </Key>
+    <Property Name="ScheduleID" Type="int" Nullable="false" />
+    <Property Name="MovieID" Type="int" Nullable="false" />
+    <Property Name="TheaterID" Type="int" Nullable="false" />
+    <Property Name="StartDateAndTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Theaters">
+    <Key>
+      <PropertyRef Name="TheaterID" />
+    </Key>
+    <Property Name="TheaterID" Type="int" Nullable="false" />
+    <Property Name="NameOfTheater" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Filmography_Actor">
+    <End Role="Actors" Type="Self.Actors" Multiplicity="1" />
+    <End Role="Filmography" Type="Self.Filmography" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Actors">
+        <PropertyRef Name="ActorID" />
+      </Principal>
+      <Dependent Role="Filmography">
+        <PropertyRef Name="ActorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Filmography_Movie">
+    <End Role="Movies" Type="Self.Movies" Multiplicity="1" />
+    <End Role="Filmography" Type="Self.Filmography" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movies">
+        <PropertyRef Name="MovieID" />
+      </Principal>
+      <Dependent Role="Filmography">
+        <PropertyRef Name="MovieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Movies_Genre">
+    <End Role="Genre" Type="Self.Genre" Multiplicity="0..1" />
+    <End Role="Movies" Type="Self.Movies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="GenreID" />
+      </Principal>
+      <Dependent Role="Movies">
+        <PropertyRef Name="GenreID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieSchedule_Movie">
+    <End Role="Movies" Type="Self.Movies" Multiplicity="1" />
+    <End Role="MovieSchedule" Type="Self.MovieSchedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movies">
+        <PropertyRef Name="MovieID" />
+      </Principal>
+      <Dependent Role="MovieSchedule">
+        <PropertyRef Name="MovieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MovieSchedule_Theater">
+    <End Role="Theaters" Type="Self.Theaters" Multiplicity="1" />
+    <End Role="MovieSchedule" Type="Self.MovieSchedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Theaters">
+        <PropertyRef Name="TheaterID" />
+      </Principal>
+      <Dependent Role="MovieSchedule">
+        <PropertyRef Name="TheaterID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MoviesModelStoreContainer">
+    <EntitySet Name="Actors" EntityType="Self.Actors" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Filmography" EntityType="Self.Filmography" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Genre" EntityType="Self.Genre" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Movies" EntityType="Self.Movies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MovieSchedule" EntityType="Self.MovieSchedule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Theaters" EntityType="Self.Theaters" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Filmography_Actor" Association="Self.FK_Filmography_Actor">
+      <End Role="Actors" EntitySet="Actors" />
+      <End Role="Filmography" EntitySet="Filmography" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Filmography_Movie" Association="Self.FK_Filmography_Movie">
+      <End Role="Movies" EntitySet="Movies" />
+      <End Role="Filmography" EntitySet="Filmography" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Movies_Genre" Association="Self.FK_Movies_Genre">
+      <End Role="Genre" EntitySet="Genre" />
+      <End Role="Movies" EntitySet="Movies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieSchedule_Movie" Association="Self.FK_MovieSchedule_Movie">
+      <End Role="Movies" EntitySet="Movies" />
+      <End Role="MovieSchedule" EntitySet="MovieSchedule" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MovieSchedule_Theater" Association="Self.FK_MovieSchedule_Theater">
+      <End Role="Theaters" EntitySet="Theaters" />
+      <End Role="MovieSchedule" EntitySet="MovieSchedule" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
