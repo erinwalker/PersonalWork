@@ -1,0 +1,6 @@
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\bin\Debug\NewtonsMethod.exe.config
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\obj\Debug\NewtonsMethod.csprojResolveAssemblyReference.cache
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\bin\Debug\NewtonsMethod.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\bin\Debug\NewtonsMethod.pdb
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\obj\Debug\NewtonsMethod.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsMethod\NewtonsMethod\obj\Debug\NewtonsMethod.pdb

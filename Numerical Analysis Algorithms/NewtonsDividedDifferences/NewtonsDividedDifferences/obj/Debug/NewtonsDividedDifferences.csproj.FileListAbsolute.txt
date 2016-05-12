@@ -1,0 +1,6 @@
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\bin\Debug\NewtonsDividedDifferences.exe.config
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\obj\Debug\NewtonsDividedDifferences.csprojResolveAssemblyReference.cache
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\bin\Debug\NewtonsDividedDifferences.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\bin\Debug\NewtonsDividedDifferences.pdb
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\obj\Debug\NewtonsDividedDifferences.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\NewtonsDividedDifferences\NewtonsDividedDifferences\obj\Debug\NewtonsDividedDifferences.pdb

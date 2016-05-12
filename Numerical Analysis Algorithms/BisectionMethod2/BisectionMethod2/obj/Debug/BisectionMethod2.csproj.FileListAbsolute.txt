@@ -1,0 +1,6 @@
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\bin\Debug\BisectionMethod2.exe.config
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\bin\Debug\BisectionMethod2.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\bin\Debug\BisectionMethod2.pdb
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\obj\Debug\BisectionMethod2.csprojResolveAssemblyReference.cache
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\obj\Debug\BisectionMethod2.exe
+c:\users\ewalk13\documents\visual studio 2013\Projects\BisectionMethod2\BisectionMethod2\obj\Debug\BisectionMethod2.pdb

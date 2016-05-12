@@ -1,0 +1,22 @@
+
+
+        //public static void Algorithm(function f, double a, double b, double xValue)
+        //{
+        //    double[,] points = new double[10,10];
+        //    double x = a;
+        //    double increment = Math.Abs(b - a) / 9;
+        //    points[0,0] = x;
+        //    points[0, 1] = f(x);
+
+        //    for(int i = 1; i < 10; i++)
+        //    {
+        //        x += increment;
+        //        points[i, 0] = x;
+        //        points[i, 1] = f(x);
+        //    }
+            
+        //    for(int index = 0; index < 9; index++)
+        //    {
+        //        //points[index, k] = (points[index + 1, 1] - points[index, 1])/ (points[index + 1, 0] - points[index, 0]);
+        //    }
+        //}
